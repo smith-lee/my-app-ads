@@ -3,6 +3,7 @@
 Easily compress or resize videos to share via email and other apps. 
 Watch a few rewarded ads for 100% free access!
 </en-US>
+
 # 스토어 등록정보
 <ko-KR>
 멋진 순간을 촬영한 대용량의 영상 공유가 부담스러우셨나요?
